@@ -43,3 +43,9 @@ This project was completed as part of an academic team assignment.
 The network was implemented and tested using both Cisco Packet Tracer and physical Cisco networking equipment.
 
 Detailed configuration, verification results, troubleshooting experience, and my individual contributions are documented in this repository.
+
+## 🗺 Network Topology
+
+The network was designed and simulated using Cisco Packet Tracer before being implemented on physical Cisco networking equipment.
+
+![Network Topology](network-topology.png)
